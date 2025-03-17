@@ -72,11 +72,6 @@ button.cancel {
   color: royalblue;
 }
 
-.left{
-  display: flex;
-  justify-content: left;
-}
-
 .header{
   display: flex;
   align-items: center;
