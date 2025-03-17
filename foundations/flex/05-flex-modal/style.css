@@ -33,6 +33,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
+  flex-shrink: 0;
 }
 
 .close-button {
@@ -71,4 +72,9 @@ button.cancel {
 .left{
   display: flex;
   justify-content: left;
+}
+
+.top{
+  display: flex;
+  font-style: bold;
 }
