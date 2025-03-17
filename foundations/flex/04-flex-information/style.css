@@ -30,3 +30,8 @@ img {
 .content{
   display: flex;
 }
+
+.one, .two, .three, .four{
+display: flex;
+flex-direction: column;
+}
