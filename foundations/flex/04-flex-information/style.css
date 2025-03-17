@@ -29,9 +29,11 @@ img {
 
 .content{
   display: flex;
+  justify-content: center;
 }
 
 .one, .two, .three, .four{
 display: flex;
 flex-direction: column;
+align-items: center;
 }
