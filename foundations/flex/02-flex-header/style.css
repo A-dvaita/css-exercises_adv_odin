@@ -1,4 +1,6 @@
 .header  {
+  display: flex;
+  justify-content: space-around;
   font-family: monospace;
   background: papayawhip;
 }
@@ -9,6 +11,7 @@
   color: tomato;
   background: white;
   padding: 4px 32px;
+  flex-direction: column;
 }
 
 ul {
