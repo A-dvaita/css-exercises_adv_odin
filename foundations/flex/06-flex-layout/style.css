@@ -16,6 +16,7 @@ img {
 button {
   font-family: Roboto, sans-serif;
   border: none;
+  padding: 8px;
   border-radius: 8px;
   background: #eee;
 }
@@ -46,5 +47,6 @@ a{
 .footer{
   background-color: #eeeeee;
 }
+
 
 
