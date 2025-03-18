@@ -44,6 +44,7 @@ body {
   border-radius: 4px;
   display: flex;
   flex-wrap: wrap;
+  padding: 16px;
 }
 
 .content{
