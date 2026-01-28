@@ -30,6 +30,10 @@
   font-size: 16px;
 }
 
+.menu ul{
+  display: grid;
+}
+
 .sidebar {
   background-color: #C50208;
 }
@@ -52,6 +56,10 @@
 
 .nav {
   background-color: #C50208;
+}
+
+.nav ul{
+  display: grid;
 }
 
 .nav ul li {
